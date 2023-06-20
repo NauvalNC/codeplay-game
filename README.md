@@ -14,7 +14,8 @@ Visual coding using code block intended for children to learn how to program.
 3. Clone the project using the following command.
 
   ```
-  git clone --recurse-submodule https://github.com/NauvalNC/Codeplay.git
+  git clone --recurse-submodule https://github.com/NauvalNC/codeplay-game.git
   ```
+
 ## Latest Release Builds
 You can download latest CodePlay builds [here](https://nauval.itch.io/codeplay).
