@@ -1,0 +1,56 @@
+{
+    "ID": 0,
+    "dialogues": [
+        {
+            "charAddressKey": "narator",
+            "speakerExp": 0,
+            "speakerAnim": 0,
+            "sentence": "(Tidak lama kemudian Lumigo terbangun.)",
+            "branches": [],
+            "group": [
+                "narator"
+            ]
+        },
+        {
+            "charAddressKey": "lumigo",
+            "speakerExp": 0,
+            "speakerAnim": 0,
+            "sentence": "Ughh... kenapa harus ada lubang sih disitu sih. Huh?",
+            "branches": [],
+            "group": [
+                "lumigo"
+            ]
+        },
+        {
+            "charAddressKey": "narator",
+            "speakerExp": 0,
+            "speakerAnim": 0,
+            "sentence": "(Lumigo kemudian mencari tas dan codex yang dimilikinya.)",
+            "branches": [],
+            "group": [
+                "narator"
+            ]
+        },
+        {
+            "charAddressKey": "lumigo",
+            "speakerExp": 0,
+            "speakerAnim": 0,
+            "sentence": "Nampaknya Lumigo kehilangan tas dan codex. Mungkin jika Lumigo berjalan kedalam gua mungkin Lumigo akan menemukannya.",
+            "branches": [],
+            "group": [
+                "lumigo"
+            ]
+        },
+        {
+            "charAddressKey": "narator",
+            "speakerExp": 0,
+            "speakerAnim": 0,
+            "sentence": "(Kemudian Lumigo melanjutkan perjalanannya keluar dari gua.)",
+            "branches": [],
+            "group": [
+                "narator"
+            ]
+        }
+    ],
+    "mergePointID": -1
+}

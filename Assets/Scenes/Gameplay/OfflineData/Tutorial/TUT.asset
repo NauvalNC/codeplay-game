@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7a716571c6511f84da4fcacd08464f05, type: 3}
+  m_Name: TUT
+  m_EditorClassIdentifier: 
+  chapterInfo:
+    chapter_id: TUT
+    title: Tutorial
+    banner: Images/Banner/Sample_Banner.png
+    is_solved: 0
+    total_stages: 0
+    total_stars: 0
+  stages:
+  - stage_id: TUT-0
+    chapter_id: 
+    is_solved: 0
+    total_codes: 0
+    stars: 0
+    fastest_time: -1
+    title: Cara Bermain
+    banner: Banners/TUT/banner_tut-0
+    tutorialContent: {fileID: 11400000, guid: f5a3467b573639846b432f2082e5b6f4, type: 2}
+  - stage_id: TUT-1
+    chapter_id: 
+    is_solved: 0
+    total_codes: 0
+    stars: 0
+    fastest_time: -1
+    title: Dasar Pergerakkan
+    banner: Banners/TUT/banner_tut-1
+    tutorialContent: {fileID: 11400000, guid: 65016a7ab5c8d6e4ea97e5b81fd63810, type: 2}
+  - stage_id: TUT-2
+    chapter_id: 
+    is_solved: 0
+    total_codes: 0
+    stars: 0
+    fastest_time: -1
+    title: Perulangan
+    banner: Banners/TUT/banner_tut-2
+    tutorialContent: {fileID: 11400000, guid: fc538908bda72b341be579a9c149db9e, type: 2}
+  - stage_id: TUT-3
+    chapter_id: 
+    is_solved: 0
+    total_codes: 0
+    stars: 0
+    fastest_time: -1
+    title: Kondisional #1
+    banner: Banners/TUT/banner_tut-3
+    tutorialContent: {fileID: 11400000, guid: 8b7a6bb9d46ef6a4fa8b103b09224b7e, type: 2}
+  - stage_id: TUT-4
+    chapter_id: 
+    is_solved: 0
+    total_codes: 0
+    stars: 0
+    fastest_time: -1
+    title: Kondisional #2
+    banner: Banners/TUT/banner_tut-4
+    tutorialContent: {fileID: 11400000, guid: 88095e559e6ddda47975a375ecca09e8, type: 2}

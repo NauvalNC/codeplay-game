@@ -1,0 +1,36 @@
+{
+    "ID": 0,
+    "dialogues": [
+        {
+            "charAddressKey": "narator",
+            "speakerExp": 0,
+            "speakerAnim": 0,
+            "sentence": "(Setelah melewati kabut tersebut Lumigo tidak melihat kalau didepannya terdapat lubang.)",
+            "branches": [],
+            "group": [
+                "narator"
+            ]
+        },
+        {
+            "charAddressKey": "lumigo",
+            "speakerExp": 0,
+            "speakerAnim": 0,
+            "sentence": "AHHHHH............",
+            "branches": [],
+            "group": [
+                "lumigo"
+            ]
+        },
+        {
+            "charAddressKey": "narator",
+            "speakerExp": 0,
+            "speakerAnim": 0,
+            "sentence": "(Lumigo pun terjatuh kedalam lubang.)",
+            "branches": [],
+            "group": [
+                "narator"
+            ]
+        }
+    ],
+    "mergePointID": -1
+}

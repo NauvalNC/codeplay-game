@@ -1,0 +1,36 @@
+{
+    "ID": 0,
+    "dialogues": [
+        {
+            "charAddressKey": "narator",
+            "speakerExp": 0,
+            "speakerAnim": 0,
+            "sentence": "(Sesampainya di depan hutan terlarang.)",
+            "branches": [],
+            "group": [
+                "narator"
+            ]
+        },
+        {
+            "charAddressKey": "lumigo",
+            "speakerExp": 0,
+            "speakerAnim": 0,
+            "sentence": "Ugghh... hutannya sangat seram tetapi demi nenek lumigo akan berani!",
+            "branches": [],
+            "group": [
+                "lumigo"
+            ]
+        },
+        {
+            "charAddressKey": "narator",
+            "speakerExp": 0,
+            "speakerAnim": 0,
+            "sentence": "(Kemudian lumigo memasuki hutan terlarang.)",
+            "branches": [],
+            "group": [
+                "narator"
+            ]
+        }
+    ],
+    "mergePointID": -1
+}

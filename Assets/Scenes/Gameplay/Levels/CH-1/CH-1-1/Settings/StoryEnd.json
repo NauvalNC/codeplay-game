@@ -1,0 +1,36 @@
+{
+    "ID": 0,
+    "dialogues": [
+        {
+            "charAddressKey": "narator",
+            "speakerExp": 0,
+            "speakerAnim": 0,
+            "sentence": "(Setelah beberapa waktu dan memilih bunga yang bagus. Keranjang lumigo pun penuh.)",
+            "branches": [],
+            "group": [
+                "narator"
+            ]
+        },
+        {
+            "charAddressKey": "lumigo",
+            "speakerExp": 0,
+            "speakerAnim": 0,
+            "sentence": "Hmmm. nampaknya keranjangku sudah penuh.",
+            "branches": [],
+            "group": [
+                "lumigo"
+            ]
+        },
+        {
+            "charAddressKey": "lumigo",
+            "speakerExp": 0,
+            "speakerAnim": 0,
+            "sentence": "Waktunya kembali ke desa lalu menjual bunga ini kepada merchant.",
+            "branches": [],
+            "group": [
+                "lumigo"
+            ]
+        }
+    ],
+    "mergePointID": -1
+}

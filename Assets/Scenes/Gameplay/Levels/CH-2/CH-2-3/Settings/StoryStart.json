@@ -1,0 +1,66 @@
+{
+    "ID": 0,
+    "dialogues": [
+        {
+            "charAddressKey": "narator",
+            "speakerExp": 0,
+            "speakerAnim": 0,
+            "sentence": "(Setelah mengambil tasnya dan mencoba memetik buahnya lumigo pun berteriak.)",
+            "branches": [],
+            "group": [
+                "narator"
+            ]
+        },
+        {
+            "charAddressKey": "lumigo",
+            "speakerExp": 0,
+            "speakerAnim": 0,
+            "sentence": "YEAH!! DENGAN INI LUMIGO BISA MENYELAMATKAN NENEK!!",
+            "branches": [],
+            "group": [
+                "lumigo"
+            ]
+        },
+        {
+            "charAddressKey": "narator",
+            "speakerExp": 0,
+            "speakerAnim": 0,
+            "sentence": "(Suara keras Lumigo itu membangunkan beberapa monster yang ada didalam gua.)",
+            "branches": [],
+            "group": [
+                "narator"
+            ]
+        },
+        {
+            "charAddressKey": "monster",
+            "speakerExp": 0,
+            "speakerAnim": 0,
+            "sentence": "ROARRRR!!!!!!",
+            "branches": [],
+            "group": [
+                "monster"
+            ]
+        },
+        {
+            "charAddressKey": "lumigo",
+            "speakerExp": 0,
+            "speakerAnim": 0,
+            "sentence": "Ehhhh.!!",
+            "branches": [],
+            "group": [
+                "lumigo"
+            ]
+        },
+        {
+            "charAddressKey": "narator",
+            "speakerExp": 0,
+            "speakerAnim": 0,
+            "sentence": "(Dengan cepat lumigo pun menyimpan buah ajaib didalam tasnya dan menuju jalan keluar dari gua tersebut sebelum monster datang.)",
+            "branches": [],
+            "group": [
+                "narator"
+            ]
+        }
+    ],
+    "mergePointID": -1
+}

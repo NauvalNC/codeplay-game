@@ -1,0 +1,36 @@
+{
+    "ID": 0,
+    "dialogues": [
+        {
+            "charAddressKey": "narator",
+            "speakerExp": 0,
+            "speakerAnim": 0,
+            "sentence": "(Di siang hari terdengarlah nyanyian seorang anak perempuan ditengah hutan.)",
+            "branches": [],
+            "group": [
+                "narator"
+            ]
+        },
+        {
+            "charAddressKey": "lumigo",
+            "speakerExp": 0,
+            "speakerAnim": 0,
+            "sentence": "La~ la~ la~. hari ini hari yang cerah untuk mengambil bunga dihutan.",
+            "branches": [],
+            "group": [
+                "lumigo"
+            ]
+        },
+        {
+            "charAddressKey": "lumigo",
+            "speakerExp": 0,
+            "speakerAnim": 0,
+            "sentence": "Dengan keranjangku ini aku akan mengambil banyak bunga dan menjualnya ke merchant.",
+            "branches": [],
+            "group": [
+                "lumigo"
+            ]
+        }
+    ],
+    "mergePointID": -1
+}

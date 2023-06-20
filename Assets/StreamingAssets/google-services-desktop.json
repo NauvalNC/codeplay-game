@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "149984986211",
+    "project_id": "codeplay-b68b5",
+    "storage_bucket": "codeplay-b68b5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:149984986211:android:1919ee96916af1bafa2456",
+        "android_client_info": {
+          "package_name": "com.codeabled.codeplay"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "149984986211-g42vq062ht8ud7575rdci3cbfob1caqg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC4u_vUjyllDhd-foCkY0yIGaD_YuOg0JI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "149984986211-g42vq062ht8ud7575rdci3cbfob1caqg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

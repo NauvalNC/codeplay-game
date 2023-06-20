@@ -1,0 +1,47 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MainMenu/MainMenu.unity
+    guid: 7690ef4f61cab524aab252814cceb67a
+  - enabled: 1
+    path: Assets/Scenes/Generics/Loading.unity
+    guid: 8824a30d4f1636c4caaa26721cd2b495
+  - enabled: 1
+    path: Assets/Scenes/Gameplay/Levels/CH-1/CH-1-1/CH-1-1.unity
+    guid: d11e011485c4b554db6f64920910f1cd
+  - enabled: 1
+    path: Assets/Scenes/Gameplay/Levels/CH-1/CH-1-2/CH-1-2.unity
+    guid: 27cc81160f3f28f47ac6d1cc6a30d3c5
+  - enabled: 1
+    path: Assets/Scenes/Gameplay/Levels/CH-1/CH-1-3/CH-1-3.unity
+    guid: 907074a28c4142a49969f6a1b4658a13
+  - enabled: 1
+    path: Assets/Scenes/Gameplay/Levels/CH-2/CH-2-1/CH-2-1.unity
+    guid: 1b30f43ff493bf04a887ec879c34a8e7
+  - enabled: 1
+    path: Assets/Scenes/Gameplay/Levels/CH-2/CH-2-2/CH-2-2.unity
+    guid: f2a448549e56e3747b0d1b8d7a8e98ac
+  - enabled: 1
+    path: Assets/Scenes/Gameplay/Levels/CH-2/CH-2-3/CH-2-3.unity
+    guid: c210ed46e669d0242aae795308d8506a
+  - enabled: 1
+    path: Assets/Scenes/Gameplay/Levels/TUT/TUT-1/TUT-1.unity
+    guid: 80dab54ac2a3d224ea47057b2d31331e
+  - enabled: 1
+    path: Assets/Scenes/Gameplay/Levels/TUT/TUT-2/TUT-2.unity
+    guid: 89de89eefdd160a42af3811a6803a465
+  - enabled: 1
+    path: Assets/Scenes/Gameplay/Levels/TUT/TUT-3/TUT-3.unity
+    guid: 778993f3add567747bf0d1f21c08b15f
+  - enabled: 1
+    path: Assets/Scenes/Gameplay/Levels/TUT/TUT-4/TUT-4.unity
+    guid: 71ad0f0286ea0d54c9e63e9c7ad6b23a
+  - enabled: 1
+    path: Assets/Scenes/Gameplay/Levels/TUT/TUT-5/TUT-5.unity
+    guid: ac04b69e8abf5ba46bc3a4ab3dde489f
+  m_configObjects: {}

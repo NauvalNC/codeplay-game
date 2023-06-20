@@ -1,0 +1,69 @@
+{
+    "ID": 0,
+    "dialogues": [
+        {
+            "charAddressKey": "narator",
+            "speakerExp": 0,
+            "speakerAnim": 0,
+            "sentence": "(Ketika dalam perjalanan pulang lumigo bertemu dengan temannya yang berlari.)",
+            "branches": [],
+            "group": [
+                "narator"
+            ]
+        },
+        {
+            "charAddressKey": "lumigo",
+            "speakerExp": 0,
+            "speakerAnim": 0,
+            "sentence": "Halo, Flo kenapa buru-buru begitu?.",
+            "branches": [],
+            "group": [
+                "lumigo"
+            ]
+        },
+        {
+            "charAddressKey": "flo",
+            "speakerExp": 0,
+            "speakerAnim": 0,
+            "sentence": "Lumigo, nenekmu tiba-tiba jatuh sakit jadi aku mencoba untuk mencarimu.",
+            "branches": [],
+            "group": [
+                "lumigo",
+                "flo"
+            ]
+        },
+        {
+            "charAddressKey": "lumigo",
+            "speakerExp": 0,
+            "speakerAnim": 0,
+            "sentence": "Hah!!! Nenek jatuh sakit?",
+            "branches": [],
+            "group": [
+                "lumigo",
+                "flo"
+            ]
+        },
+        {
+            "charAddressKey": "flo",
+            "speakerExp": 0,
+            "speakerAnim": 0,
+            "sentence": "Iya, lumi... ah...",
+            "branches": [],
+            "group": [
+                "lumigo",
+                "flo"
+            ]
+        },
+        {
+            "charAddressKey": "narator",
+            "speakerExp": 0,
+            "speakerAnim": 0,
+            "sentence": "(Dengan cepat lumigo tidak membiarkan temannya menyelesaikan kata-kata lumigo pun berlari kembali kerumahnya.)",
+            "branches": [],
+            "group": [
+                "narator"
+            ]
+        }
+    ],
+    "mergePointID": -1
+}

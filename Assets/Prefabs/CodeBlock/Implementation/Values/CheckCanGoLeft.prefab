@@ -1,0 +1,166 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &2560419604807345808
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 8322931119229492528, guid: ed3da03290a58294e95b0be22bdebc9f,
+        type: 3}
+      propertyPath: m_Pivot.x
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8322931119229492528, guid: ed3da03290a58294e95b0be22bdebc9f,
+        type: 3}
+      propertyPath: m_Pivot.y
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 8322931119229492528, guid: ed3da03290a58294e95b0be22bdebc9f,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8322931119229492528, guid: ed3da03290a58294e95b0be22bdebc9f,
+        type: 3}
+      propertyPath: m_AnchorMax.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8322931119229492528, guid: ed3da03290a58294e95b0be22bdebc9f,
+        type: 3}
+      propertyPath: m_AnchorMax.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8322931119229492528, guid: ed3da03290a58294e95b0be22bdebc9f,
+        type: 3}
+      propertyPath: m_AnchorMin.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8322931119229492528, guid: ed3da03290a58294e95b0be22bdebc9f,
+        type: 3}
+      propertyPath: m_AnchorMin.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8322931119229492528, guid: ed3da03290a58294e95b0be22bdebc9f,
+        type: 3}
+      propertyPath: m_SizeDelta.x
+      value: 120
+      objectReference: {fileID: 0}
+    - target: {fileID: 8322931119229492528, guid: ed3da03290a58294e95b0be22bdebc9f,
+        type: 3}
+      propertyPath: m_SizeDelta.y
+      value: 30
+      objectReference: {fileID: 0}
+    - target: {fileID: 8322931119229492528, guid: ed3da03290a58294e95b0be22bdebc9f,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8322931119229492528, guid: ed3da03290a58294e95b0be22bdebc9f,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8322931119229492528, guid: ed3da03290a58294e95b0be22bdebc9f,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8322931119229492528, guid: ed3da03290a58294e95b0be22bdebc9f,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8322931119229492528, guid: ed3da03290a58294e95b0be22bdebc9f,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8322931119229492528, guid: ed3da03290a58294e95b0be22bdebc9f,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8322931119229492528, guid: ed3da03290a58294e95b0be22bdebc9f,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8322931119229492528, guid: ed3da03290a58294e95b0be22bdebc9f,
+        type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8322931119229492528, guid: ed3da03290a58294e95b0be22bdebc9f,
+        type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8322931119229492528, guid: ed3da03290a58294e95b0be22bdebc9f,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8322931119229492528, guid: ed3da03290a58294e95b0be22bdebc9f,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8322931119229492528, guid: ed3da03290a58294e95b0be22bdebc9f,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8322931119229492534, guid: ed3da03290a58294e95b0be22bdebc9f,
+        type: 3}
+      propertyPath: variableValue
+      value: 
+      objectReference: {fileID: 1374511311852720779}
+    - target: {fileID: 8322931119229492534, guid: ed3da03290a58294e95b0be22bdebc9f,
+        type: 3}
+      propertyPath: codeInfo.codeName
+      value: Bisa Kekiri
+      objectReference: {fileID: 0}
+    - target: {fileID: 8322931119229492534, guid: ed3da03290a58294e95b0be22bdebc9f,
+        type: 3}
+      propertyPath: codeInfo.codeDescription
+      value: Kode blok ini digunakan untuk mengecek apakah karakter sudah mencapai
+        finish atau belum.
+      objectReference: {fileID: 0}
+    - target: {fileID: 8322931119229492559, guid: ed3da03290a58294e95b0be22bdebc9f,
+        type: 3}
+      propertyPath: m_Name
+      value: CheckCanGoLeft
+      objectReference: {fileID: 0}
+    - target: {fileID: 8322931120408855976, guid: ed3da03290a58294e95b0be22bdebc9f,
+        type: 3}
+      propertyPath: m_text
+      value: Bisa Kekiri
+      objectReference: {fileID: 0}
+    - target: {fileID: 8322931120408855976, guid: ed3da03290a58294e95b0be22bdebc9f,
+        type: 3}
+      propertyPath: m_fontSize
+      value: 17.05
+      objectReference: {fileID: 0}
+    m_RemovedComponents:
+    - {fileID: 7400497706795913156, guid: ed3da03290a58294e95b0be22bdebc9f, type: 3}
+  m_SourcePrefab: {fileID: 100100000, guid: ed3da03290a58294e95b0be22bdebc9f, type: 3}
+--- !u!1 &5767015251900578783 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 8322931119229492559, guid: ed3da03290a58294e95b0be22bdebc9f,
+    type: 3}
+  m_PrefabInstance: {fileID: 2560419604807345808}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &1374511311852720779
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5767015251900578783}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f4a7e0715b7cab943b4449df1086964f, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 

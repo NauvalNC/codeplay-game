@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3791e9db1a705f540b260702949cebc5, type: 3}
+  m_Name: CH-1-2
+  m_EditorClassIdentifier: 
+  isTutorialGameplay: 0
+  blockCodeLimit: 3
+  codeTemplate:
+    actionCodes:
+    - {fileID: 4909258459687491543, guid: 6a99908eb44604d44bbdcce22f8574a9, type: 3}
+    - {fileID: 3270191313414509919, guid: 366d05e9627690e478c1e648282f7fe9, type: 3}
+    - {fileID: 5983544503542043168, guid: dea5b91dfb5d22e4390d617e0fd11f68, type: 3}
+    coreCodes:
+    - {fileID: 7390040521175711287, guid: 019a2314c3002ce41961e72b28dab47a, type: 3}
+    - {fileID: 5071801756232697939, guid: 0f3666b11a57df343b86dcdba0ad068f, type: 3}
+    - {fileID: 7545929895095336057, guid: f835d0a7e1684dc4ab46fc34ad42f96f, type: 3}
+    - {fileID: 7545929895095336057, guid: ffb6f25026faec444ba74a94373552e3, type: 3}
+    variableCodes:
+    - {fileID: 2573525415950293281, guid: f6ad6f78d14599141b828e43a07f44dc, type: 3}
+    - {fileID: 5767015251900578783, guid: 3175931453b6a5449aed602726ca55fc, type: 3}
+    - {fileID: 7498949083940734772, guid: a5201452e5da73d4ca9522d9feb93ece, type: 3}
+    - {fileID: 1182578436252305565, guid: 86a0e5739ed784943affda42196cacbc, type: 3}
+  starsRequirement:
+    twoStars: 15
+    threeStars: 10
+  startStory: {fileID: 11400000, guid: e2008b72a29cfa94bb5206a16b7ff3cf, type: 2}
+  endStory: {fileID: 11400000, guid: 3a5004b1dc50ca44f9737e8c72ca953f, type: 2}
+  nextLevelId: CH-1-3

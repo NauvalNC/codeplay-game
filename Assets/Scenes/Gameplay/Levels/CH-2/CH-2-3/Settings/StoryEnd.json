@@ -1,0 +1,76 @@
+{
+    "ID": 0,
+    "dialogues": [
+        {
+            "charAddressKey": "narator",
+            "speakerExp": 0,
+            "speakerAnim": 0,
+            "sentence": "(Dengan cepat lumigo pun keluar dari gua itu dan lari keluar dari hutan terlarang menuju desa lalu sesampainya dirumah.)",
+            "branches": [],
+            "group": [
+                "narator"
+            ]
+        },
+        {
+            "charAddressKey": "lumigo",
+            "speakerExp": 0,
+            "speakerAnim": 0,
+            "sentence": "Bibi Lizzie, Lumigo kembali dengan buah ajaib!!",
+            "branches": [],
+            "group": [
+                "lumigo"
+            ]
+        },
+        {
+            "charAddressKey": "lizzie",
+            "speakerExp": 0,
+            "speakerAnim": 0,
+            "sentence": "Ok, mari kita beri makan nenek buah tersebut sebelum terlambat!",
+            "branches": [],
+            "group": [
+                "lizzie"
+            ]
+        },
+        {
+            "charAddressKey": "narator",
+            "speakerExp": 0,
+            "speakerAnim": 0,
+            "sentence": "(Setelah memberi makan buah itu beberapa jam kemudian nenek lumigo terbangun dari tempat tidurnya.)",
+            "branches": [],
+            "group": [
+                "narator"
+            ]
+        },
+        {
+            "charAddressKey": "nenek",
+            "speakerExp": 0,
+            "speakerAnim": 0,
+            "sentence": "Eh.. Lumigo dan Kakek Lizzie? Kenapa mengumpul disini?",
+            "branches": [],
+            "group": [
+                "nenek"
+            ]
+        },
+        {
+            "charAddressKey": "lumigo",
+            "speakerExp": 0,
+            "speakerAnim": 0,
+            "sentence": "NENEK!!!",
+            "branches": [],
+            "group": [
+                "lumigo"
+            ]
+        },
+        {
+            "charAddressKey": "narator",
+            "speakerExp": 0,
+            "speakerAnim": 0,
+            "sentence": "(Kemudian Lumigo memeluk neneknya yang telah sembuh kembali...)",
+            "branches": [],
+            "group": [
+                "narator"
+            ]
+        }
+    ],
+    "mergePointID": -1
+}

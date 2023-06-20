@@ -1,0 +1,48 @@
+{
+    "ID": 0,
+    "dialogues": [
+        {
+            "charAddressKey": "narator",
+            "speakerExp": 0,
+            "speakerAnim": 0,
+            "sentence": "(Setibanya dirumah lumigo dengan keras membuka pintu.)",
+            "branches": [],
+            "group": [
+                "narator"
+            ]
+        },
+        {
+            "charAddressKey": "lumigo",
+            "speakerExp": 0,
+            "speakerAnim": 0,
+            "sentence": "NENEK!!!",
+            "branches": [],
+            "group": [
+                "lumigo"
+            ]
+        },
+        {
+            "charAddressKey": "nenek",
+            "speakerExp": 0,
+            "speakerAnim": 0,
+            "sentence": ".....",
+            "branches": [],
+            "group": [
+                "lumigo",
+                "nenek"
+            ]
+        },
+        {
+            "charAddressKey": "lumigo",
+            "speakerExp": 0,
+            "speakerAnim": 0,
+            "sentence": "jangan tinggalkan lumigo sendiri nenek...",
+            "branches": [],
+            "group": [
+                "lumigo",
+                "nenek"
+            ]
+        }
+    ],
+    "mergePointID": -1
+}

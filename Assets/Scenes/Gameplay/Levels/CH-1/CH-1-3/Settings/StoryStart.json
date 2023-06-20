@@ -1,0 +1,163 @@
+{
+    "ID": 0,
+    "dialogues": [
+        {
+            "charAddressKey": "lizzie",
+            "speakerExp": 0,
+            "speakerAnim": 0,
+            "sentence": "Shhhh... jangan menangis terus lumigo.",
+            "branches": [],
+            "group": [
+                "lizzie"
+            ]
+        },
+        {
+            "charAddressKey": "lumigo",
+            "speakerExp": 0,
+            "speakerAnim": 0,
+            "sentence": "Ah maaf, Kakek Lizzie...",
+            "branches": [],
+            "group": [
+                "lumigo",
+                "lizzie"
+            ]
+        },
+        {
+            "charAddressKey": "lizzie",
+            "speakerExp": 0,
+            "speakerAnim": 0,
+            "sentence": "Hmmm.. nampaknya keadaan nenek mu sedang tidak baik kalau dibiarkan begini nenekmu tidak akan selamat.",
+            "branches": [],
+            "group": [
+                "lumigo",
+                "lizzie"
+            ]
+        },
+        {
+            "charAddressKey": "lumigo",
+            "speakerExp": 0,
+            "speakerAnim": 0,
+            "sentence": "Apakah ada jalan untuk menyembuhkan nenek?",
+            "branches": [],
+            "group": [
+                "lumigo",
+                "lizzie"
+            ]
+        },
+        {
+            "charAddressKey": "lizzie",
+            "speakerExp": 0,
+            "speakerAnim": 0,
+            "sentence": "Hanya ada satu cara...",
+            "branches": [],
+            "group": [
+                "lumigo",
+                "lizzie"
+            ]
+        },
+        {
+            "charAddressKey": "lumigo",
+            "speakerExp": 0,
+            "speakerAnim": 0,
+            "sentence": "Ayo katakan Kakek Lizzie, lumigo akan melakukan apa pun untuk menyelamatkan nenek.",
+            "branches": [],
+            "group": [
+                "lumigo",
+                "lizzie"
+            ]
+        },
+        {
+            "charAddressKey": "lizzie",
+            "speakerExp": 0,
+            "speakerAnim": 0,
+            "sentence": "Lumigo harus mencari buah emas ajaib!",
+            "branches": [],
+            "group": [
+                "lumigo",
+                "lizzie"
+            ]
+        },
+        {
+            "charAddressKey": "lumigo",
+            "speakerExp": 0,
+            "speakerAnim": 0,
+            "sentence": "Eh....? Memangnya buah itu ada?",
+            "branches": [],
+            "group": [
+                "lumigo",
+                "lizzie"
+            ]
+        },
+        {
+            "charAddressKey": "lizzie",
+            "speakerExp": 0,
+            "speakerAnim": 0,
+            "sentence": "Mungkin lumigo tidak pernah melihatnya dihutan karena buah ini hanya tumbuh ditengah hutan terlarang.",
+            "branches": [],
+            "group": [
+                "lizzie"
+            ]
+        },
+        {
+            "charAddressKey": "lizzie",
+            "speakerExp": 0,
+            "speakerAnim": 0,
+            "sentence": "Untuk bisa mencapainya lumigo perlu melewati rintangan yang susah dan buah itu dijaga oleh monster.",
+            "branches": [],
+            "group": [
+                "lizzie"
+            ]
+        },
+        {
+            "charAddressKey": "lizzie",
+            "speakerExp": 0,
+            "speakerAnim": 0,
+            "sentence": "Apakah lumigo siap untuk melewati rintangan itu?",
+            "branches": [],
+            "group": [
+                "lizzie"
+            ]
+        },
+        {
+            "charAddressKey": "lumigo",
+            "speakerExp": 0,
+            "speakerAnim": 0,
+            "sentence": "Jika memang itu hal yang perlu dilakukan untuk menyelamatkan nenek maka lumigo akan melakukanya!",
+            "branches": [],
+            "group": [
+                "lumigo"
+            ]
+        },
+        {
+            "charAddressKey": "narator",
+            "speakerExp": 0,
+            "speakerAnim": 0,
+            "sentence": "(Kemudian lumigo bersiap-siap untuk pergi kedalam hutan terlarang.)",
+            "branches": [],
+            "group": [
+                "narator"
+            ]
+        },
+        {
+            "charAddressKey": "lizzie",
+            "speakerExp": 0,
+            "speakerAnim": 0,
+            "sentence": "Sebelum lumigo pergi bawalah buku codex ini buku ini akan membantu lumigo saat perjalanan masuk kedalam hutan terlarang.",
+            "branches": [],
+            "group": [
+                "lizzie"
+            ]
+        },
+        {
+            "charAddressKey": "lumigo",
+            "speakerExp": 0,
+            "speakerAnim": 0,
+            "sentence": "Terima kasih Kakek Lizzie. Lumigo berangkat.",
+            "branches": [],
+            "group": [
+                "lumigo"
+            ]
+        }
+    ],
+    "mergePointID": -1
+}

@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3791e9db1a705f540b260702949cebc5, type: 3}
+  m_Name: TUT-1
+  m_EditorClassIdentifier: 
+  isTutorialGameplay: 1
+  blockCodeLimit: 30
+  codeTemplate:
+    actionCodes:
+    - {fileID: 4909258459687491543, guid: 6a99908eb44604d44bbdcce22f8574a9, type: 3}
+    - {fileID: 3270191313414509919, guid: 366d05e9627690e478c1e648282f7fe9, type: 3}
+    - {fileID: 5983544503542043168, guid: dea5b91dfb5d22e4390d617e0fd11f68, type: 3}
+    coreCodes: []
+    variableCodes: []
+  starsRequirement:
+    twoStars: 22
+    threeStars: 12
+  startStory: {fileID: 0}
+  endStory: {fileID: 0}
+  nextLevelId: 

@@ -1,0 +1,66 @@
+{
+    "ID": 0,
+    "dialogues": [
+        {
+            "charAddressKey": "narator",
+            "speakerExp": 0,
+            "speakerAnim": 0,
+            "sentence": "(Di dalam hutan terlarang Lumigo mulai berjalan masuk untuk mencapai tengah hutan dimana buah emas ajaib tumbuh, namun...)",
+            "branches": [],
+            "group": [
+                "narator"
+            ]
+        },
+        {
+            "charAddressKey": "lumigo",
+            "speakerExp": 0,
+            "speakerAnim": 0,
+            "sentence": "Aduh kabutnya sangat tebal... tapi kayaknya Lumigo sudah melewati tempat ini.",
+            "branches": [],
+            "group": [
+                "lumigo"
+            ]
+        },
+        {
+            "charAddressKey": "narator",
+            "speakerExp": 0,
+            "speakerAnim": 0,
+            "sentence": "(Karena dirinya yang tidak yakin maka lumigo mengikatkan kain disebuah pohon, tidak lama kemudian lumigo menemukan pohon yang sama dengan kain yang diikat.)",
+            "branches": [],
+            "group": [
+                "narator"
+            ]
+        },
+        {
+            "charAddressKey": "lumigo",
+            "speakerExp": 0,
+            "speakerAnim": 0,
+            "sentence": "Gawat... nampaknya Lumigo tersesat didalam hutan terlarang...",
+            "branches": [],
+            "group": [
+                "lumigo"
+            ]
+        },
+        {
+            "charAddressKey": "narator",
+            "speakerExp": 0,
+            "speakerAnim": 0,
+            "sentence": "(Kemudian Lumigo teringat dengan buku codex yang diberikan Kakek Lizzie. setelah membuka buku tersebut muncullah hal yang sebelumnya tidak bisa dilihat oleh Lumigo.)",
+            "branches": [],
+            "group": [
+                "narator"
+            ]
+        },
+        {
+            "charAddressKey": "lumigo",
+            "speakerExp": 0,
+            "speakerAnim": 0,
+            "sentence": "Ok, ternyata terdapat beberapa hal yang perlu Lumigo lakukan agar bisa keluar dari kabut ini.",
+            "branches": [],
+            "group": [
+                "lumigo"
+            ]
+        }
+    ],
+    "mergePointID": -1
+}

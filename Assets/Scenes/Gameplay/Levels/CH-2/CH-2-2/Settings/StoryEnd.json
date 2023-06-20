@@ -1,0 +1,36 @@
+{
+    "ID": 0,
+    "dialogues": [
+        {
+            "charAddressKey": "narator",
+            "speakerExp": 0,
+            "speakerAnim": 0,
+            "sentence": "(Beberapa saat menyusuri gua lumigo melihat tasnya yang tergantung diatas pohon dengan buah emas ajaib.)",
+            "branches": [],
+            "group": [
+                "narator"
+            ]
+        },
+        {
+            "charAddressKey": "lumigo",
+            "speakerExp": 0,
+            "speakerAnim": 0,
+            "sentence": "Wah! Nuah emas ajaib dan juga tas ku!",
+            "branches": [],
+            "group": [
+                "lumigo"
+            ]
+        },
+        {
+            "charAddressKey": "lumigo",
+            "speakerExp": 0,
+            "speakerAnim": 0,
+            "sentence": "Aku harus cepat memetik buahnya dan mengambil tas ku.",
+            "branches": [],
+            "group": [
+                "lumigo"
+            ]
+        }
+    ],
+    "mergePointID": -1
+}

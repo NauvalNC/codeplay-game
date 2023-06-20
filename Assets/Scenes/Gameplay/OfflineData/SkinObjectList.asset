@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 48e26381964fd9f43889a5d4d1f51d0b, type: 3}
+  m_Name: SkinObjectList
+  m_EditorClassIdentifier: 
+  skins:
+  - skin_id: SK-0
+    skin_obj: {fileID: 4838907563664913396, guid: f739a6b33e1bb3e49a3bf43b0b568c05,
+      type: 3}
+  - skin_id: SK-1
+    skin_obj: {fileID: 5313188883766233721, guid: 97aafd7a20110cf46b75f137efbf15b7,
+      type: 3}
+  - skin_id: SK-2
+    skin_obj: {fileID: 5164973406193492382, guid: 8e1dbdc6642e69d47927bdfb02a0d62a,
+      type: 3}
+  - skin_id: SK-3
+    skin_obj: {fileID: 5882895696212876343, guid: da447dd4976a80e4fb0d9a1bd893b80d,
+      type: 3}
+  - skin_id: SK-4
+    skin_obj: {fileID: 5087282854081859015, guid: a5004c4854b08ae498bda495106ac284,
+      type: 3}
+  - skin_id: SK-5
+    skin_obj: {fileID: 6223480936574983705, guid: 9e85317612f82d7498d1d8f40308a658,
+      type: 3}
+  - skin_id: SK-6
+    skin_obj: {fileID: 9220621870864675558, guid: 3eb904869d81cc4499208221177d6644,
+      type: 3}
